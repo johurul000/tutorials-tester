@@ -1,0 +1,7 @@
+{
+    "items": [
+      { "path": "2-lts"},
+      { "path": "3-receiver" },
+      { "path": "4-receiver-agent" }
+    ]
+}
